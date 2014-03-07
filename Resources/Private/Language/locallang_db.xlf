@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-03-07T16:24:05Z" product-name="pde_bsp_plugin">
+		<header/>
+		<body>
+
+			<trans-unit id="tx_pdebspplugin_domain_model_example">
+				<source>Example</source>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>
