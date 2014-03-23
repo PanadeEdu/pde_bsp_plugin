@@ -1,6 +1,6 @@
 # PanadeEdu Beispiel Extension
 ### Tutorial Video
-http://www.youtube.com/watch?v=CISH8lD8GtA
+https://www.youtube.com/watch?v=R257s37plKI
 
 ### Beschreibung
 Diese Extension wurde im Tutorial mit Hilfe des Extensionmanagers erstellt.
